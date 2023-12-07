@@ -1,0 +1,454 @@
+.ban3{
+    height:1490px;
+    width:100%;  
+    background-image: url("../Images/ban3\ img.png");
+    background-repeat: no-repeat;
+    background-size: 692px 1434px;
+    background-color:rgba(163, 162, 157, 0.272) ;
+}
+
+.heading{
+    width:100%;
+    height:165px; 
+    float: left;
+    line-height:90px;
+    margin-top:95px; 
+}
+
+.heading h5{
+    font-weight: normal;
+    margin-top: 0px;
+    /* margin-left:470px; */
+    margin-bottom: 0px;
+    font-size:50px;
+    font-family: "League Gothic";
+    color: rgb(255, 112, 91);
+    font-style: italic; 
+}
+
+.heading p{
+    font-size: 21px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    font-style: italic;
+    margin-top:-30px;
+    margin-bottom: 0px;
+    /* margin-left:330px ; */
+}
+
+
+/* 1st MAIN DIV  */
+.main_div1{
+    width:100%;
+    height:350px; 
+    display:flex;
+    justify-content: flex-end;
+}
+
+.ryt_div1{
+    width:300px;
+    height:350px;
+    float: right;
+    background-image: url("../Images/bluewave2.png");
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    background-size: 300px 250px;
+}
+
+.ryt_div1 button{
+    font-size:20px;
+    font-family: "Montserrat";
+    font-weight:bolder;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 112, 91);
+    text-align:center;
+    border-radius:10px ;
+    width:150px;
+    height:60px;
+    border: none;
+    margin-top:75px;
+    margin-left:30px ; 
+}
+
+.ryt_div2{
+    height: 350px;
+    width:300px;
+    float: right;    
+} 
+
+.ryt_div2 h2{
+    font-size:25px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    text-align: left; 
+    margin-top:75px;
+    margin-left: 2px;
+} 
+
+.ryt_div2 p{
+    font-size:22px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    line-height:30px;
+    text-align: left;
+    margin-top:40px;
+}
+
+/* 2nd MAIN DIV */
+
+
+.main_div2{
+    width:100%;
+    height:420px;
+    float: right;
+    /* background-color: blueviolet; */
+}
+
+.ryt_div3{
+    width:315px;
+    height:450px;
+    float: right;
+    /* background-color: brown; */
+}
+
+.ryt_div3 h2{
+    font-size:25px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    text-align: left; 
+    margin-top:75px;
+    margin-left: 2px;
+}
+
+.ryt_div3 p{
+    font-size:22px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    line-height:30px;
+    text-align: left;
+    margin-top:40px;
+}
+
+.ryt_div4{
+    width:455px;
+    height:420px;
+    float:right;
+    background-image: url("../Images/inverted\ blue\ wave.png");
+    background-repeat: no-repeat;
+    background-size:450px 350px;
+    /* background-color: blue;  */
+}
+
+.ryt_div4 button{
+    font-size:20px;
+    font-family: "Montserrat";
+    font-weight:bolder;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 112, 91);
+    border-radius:10px ;
+    width:200px;
+    height: 70px;
+    border: none;
+    margin-top:150px;
+    margin-left:100px ; 
+}
+
+/* 3rd MAIN DIV */
+
+.main_div3{
+    width:100%;
+    height:350px; 
+    display:flex;
+    justify-content: flex-end;
+}
+
+.ryt_div5{
+    width:330px;
+    height: 350px;
+    float: right;    
+} 
+
+.ryt_div5 h2{
+    font-size:25px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    text-align: center; 
+    margin-top:75px;
+} 
+
+.ryt_div5 p{
+    font-size:22px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    line-height:30px;
+    text-align:left;
+    margin-top:30px;
+    margin-left:14px;
+}
+
+.ryt_div6{
+    width:315px;
+    height:350px;
+    float: right;
+    background-image: url("../Images/bluewave2.png");
+    background-repeat: no-repeat;
+    background-size: 310px 300px;
+    margin-top: 50px;
+}
+
+.ryt_div6 button{
+    font-size:20px;
+    font-family: "Montserrat";
+    font-weight:bolder;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 112, 91);
+    text-align:center;
+    border-radius:10px ;
+    width:200px;
+    height: 70px;
+    border: none;
+    margin-top:100px;
+    margin-left:40px ; 
+}
+
+
+@media screen and (max-width:700px){
+
+    .ban3{
+        width:100%;  
+        height:1435px;
+        background-color:rgba(163, 162, 157, 0.272) ;
+    }
+    
+    .heading{
+        width: 100%;
+        height: 100px;
+        float: left;
+        line-height: 90px;
+        margin-top: 95px;
+    }
+    
+    .heading h5{
+        font-weight: normal;
+        margin-top: 0px;
+        /* margin-left: 470px; */
+        margin-bottom: 0px;
+        font-size: 50px;
+        font-family: "League Gothic";
+        color: rgb(255, 112, 91);
+        font-style: italic; 
+    }
+    
+    .heading p{
+    font-size: 12px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    font-style: italic;
+    margin-top: -30px;
+    margin-bottom: 0px;
+    margin-left: 8px;
+    }
+    
+    
+    /* 1st MAIN DIV  */
+    .main_div1{
+        width:100%;
+        height:350px; 
+        display:flex;
+        justify-content: flex-end;
+        background-color:lavender;
+        opacity: 0.7; 
+    }
+    
+    .ryt_div1{
+        width: 300px;
+        height: 350px;
+        float: right;
+        background-image: url("../Images/bluewave2.png");
+        background-repeat: no-repeat;
+        margin-top: 56px;
+        background-size: 223px 235px;
+    }
+    
+    .ryt_div1 button{
+        font-size: 17px;
+        font-family: "Montserrat";
+        font-weight: bolder;
+        color: rgb(255, 255, 255);
+        background-color: rgb(255, 112, 91);
+        text-align: center;
+        border-radius: 10px;
+        width: 135px;
+        height: 49px;
+        border: none;
+        margin-top: 75px;
+        margin-left: 30px;
+    }
+    
+    .ryt_div2{
+        height: 350px;
+        width:300px;
+        float: right; 
+        /* background-color:bisque;
+        opacity: 0.7;    */
+    } 
+
+    /* .ryt_div2 span{
+        
+    } */
+    
+    .ryt_div2 h2{
+        font-size: 20px;
+        font-family: "Montserrat";
+        color: rgb(255, 112, 91);
+        font-style: italic;
+        text-align: left;
+        margin-top: 41px;
+        margin-left: 2px;
+        font-weight: bold;
+        
+    } 
+    
+    .ryt_div2 p{
+        font-size: 16px;
+        font-family: "Montserrat";
+        color: rgb(47, 73, 89);
+        line-height: 30px;
+        text-align: center;
+        margin-top: 12px;
+        /* background-color:bisque;
+        opacity: 0.7; */
+        /* z-index:5px; */
+    }
+    
+    /* 2nd MAIN DIV */
+    
+    
+    .main_div2{
+        width:100%;
+        height:255px;
+        float: right;
+        background-color:lavender;
+        opacity: 0.7; 
+        /* background-color: blueviolet; */
+    }
+    
+    .ryt_div3{
+        width: 225px;
+        height:255px;
+        float: right;
+        /* background-color: brown; */
+    }
+    
+    .ryt_div3 h2{
+        font-size: 18px;
+        font-family: "Montserrat";
+        color: rgb(255, 112, 91);
+        font-style: italic;
+        text-align: left;
+        margin-top: 5px;
+        margin-left: 2px;
+        font-weight: bold;
+    }
+    
+    .ryt_div3 p{
+        font-size: 17px;
+        font-family: "Montserrat";
+        color: rgb(47, 73, 89);
+        line-height: 30px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    .ryt_div4{
+        width:225px;
+        height:255px;
+        float: left;
+        background-image: url("../Images/inverted\ blue\ wave.png");
+        background-repeat: no-repeat;
+        background-size: 229px 176px;
+        margin-top:32px;
+        /* background-color: blue;  */
+
+    }
+    
+    .ryt_div4 button{
+        font-size: 17px;
+        font-family: "Montserrat";
+        font-weight: bolder;
+        color: rgb(255, 255, 255);
+        background-color: rgb(255, 112, 91);
+        border-radius: 10px;
+        width: 140px;
+        height: 41px;
+        border: none;
+        margin-top: 64px;
+        margin-left: 3px; 
+    }
+    
+    /* 3rd MAIN DIV */
+    
+    .main_div3{
+        width:100%;
+        height:350px; 
+        display:flex;
+        justify-content: flex-end;
+        background-color:lavender;
+        opacity: 0.7; 
+    }
+    
+    .ryt_div5{
+        width:300px;
+        height: 350px;
+        float: right;    
+    } 
+    
+    .ryt_div5 h2{
+        font-size: 22px;
+        font-family: "Montserrat";
+        color: rgb(255, 112, 91);
+        font-style: italic;
+        text-align: center;
+        margin-top:40px;
+        font-weight: bold;
+    } 
+    
+    .ryt_div5 p{
+        font-size: 15px;
+        font-family: "Montserrat";
+        color: rgb(47, 73, 89);
+        line-height: 30px;
+        text-align: center;
+        margin-top: 20px;
+        margin-left: 14px;
+    }
+    
+    .ryt_div6{
+        width:300px;
+        height:350px;
+        float: right;
+        background-image: url("../Images/bluewave2.png");
+        background-repeat: no-repeat;
+        background-size: 240px 230px;
+        margin-top:60px;
+    }
+    
+    .ryt_div6 button{
+        font-size: 17px;
+        font-family: "Montserrat";
+        font-weight: bolder;
+        color: rgb(255, 255, 255);
+        background-color: rgb(255, 112, 91);
+        text-align: center;
+        border-radius: 10px;
+        width: 138px;
+        height: 46px;
+        border: none;
+        margin-top: 88px;
+        margin-left: 2px;
+    }
+
+}

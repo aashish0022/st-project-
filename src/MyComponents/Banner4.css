@@ -1,0 +1,193 @@
+.ban4{
+    width:100%;
+    height:950px;
+    background-image: url("../Images/ban4\ orange\ bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color:rgba(163, 162, 157, 0.272);
+}
+
+.ban4 h5{
+    font-size:50px;
+    font-family: "League Gothic";
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    padding-top:300px;
+    text-align: center;   
+    font-weight: normal; 
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.ban4 p{
+    font-size:17px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    line-height:29px;
+    margin-top:50px;
+}
+
+.ban4 h6{ 
+    font-size: 20px;
+    font-family:"Montserrat";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    font-weight: normal;
+    margin-top:30px;
+}
+   
+.small_dot{
+    width:100%;
+    height:50px;
+    margin-top:27px;
+}
+
+.small_dot img{
+    padding-left:5px;
+}
+
+.bg_full_dot{
+    width:400px;
+    height:230px;
+}
+
+.bg_full_dot img{
+    margin-top: 0px;
+    margin-left:100px;
+    /* position: relative; */
+}
+
+.text{
+    width: 100%;
+    height:150px;
+    /* background-color: yellowgreen; */
+    margin-top:-80px;
+}
+
+.text h5{ 
+    font-size:50px;
+    font-family: "League Gothic";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top:0px;
+}
+
+.text p{ 
+    font-size:17px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    font-style: italic;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 28px;
+}
+
+
+@media screen and (max-width:700px) {
+
+.ban4{
+    width:100%;
+    height:365px;
+    background-image: url("../Images/ban4\ orange\ bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color:rgba(163, 162, 157, 0.272);
+}
+    
+.ban4 h5{
+    font-size: 28px;
+    font-family: "League Gothic";
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    padding-top: 88px;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+    
+.ban4 p{
+    font-size: 10px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 12px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+    
+.ban4 h6{ 
+    font-size: 12px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 9px;
+    margin-bottom: 0px;
+}
+       
+.small_dot{
+    width: 100%;
+    height:30px;
+    margin-top:0px;
+}
+    
+.small_dot img{
+    width:14px;
+    height:9px;
+    padding-left:5px;
+}
+    
+.bg_full_dot{
+    width: 112px;
+    height: 80px;
+    margin-left: 59px;
+    margin-top: 18px;
+}
+    
+.bg_full_dot img{
+    margin-top: 0px;
+    margin-left:1px;
+    width:75px; 
+    height:70px;
+    /* position: relative; */
+}
+    
+.text{
+    width: 100%;
+    height:65px;
+    /* background-color: yellowgreen; */
+    margin-top:-24px;
+}
+    
+.text h5{ 
+    font-size:35px;
+    font-family: "League Gothic";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 0px;
+    margin-left: 15px;
+}
+    
+.text p{ 
+    font-size:11px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    font-style: italic;
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-left:10px;
+}
+    
+}

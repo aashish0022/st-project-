@@ -1,0 +1,217 @@
+
+.ban2{
+    width:100%;
+    height:500px;
+    display: flex;  
+    background-color:rgba(163, 162, 157, 0.272) ;
+    /* flex-direction: column; */
+}
+
+
+.mountain{
+    width:480px;
+    height:585px;
+}
+
+.mountain img{
+    width:115px;
+    height:132px;
+}
+
+.mountain h3{
+    font-size:20px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    /* line-height: 1.4; */
+    text-align: center;
+    font-weight:bolder;
+    padding:5px; 
+    margin-top:60px;
+}
+
+.mountain p{
+    font-size:17px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    /* line-height: 1.4; */
+    margin-top:25px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+
+.compass{
+    width:480px;
+    height:585px;
+}
+
+.compass img{
+    width:132px;
+    height:132px;
+}
+
+.compass h3{
+    font-size:20px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    /* line-height: 1.4; */
+    text-align: center;
+    font-weight:bold;
+    padding:5px; 
+    margin-top:60px;
+}
+
+.compass p{
+    font-size:17px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    /* line-height: 1.4; */
+    margin-top:25px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.bag{
+    width:480px;
+    height:585px;
+}
+
+.bag img{
+    width:127px;
+    height:139px;
+}
+
+.bag h3{
+    font-size: 20px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    /* line-height: 1.4; */
+    text-align: center;
+    font-weight:bold;
+    padding:5px;
+    margin-top:55px;
+}
+
+.bag p{
+    font-size:17px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    /* line-height: 1.4; */
+    margin-left: 10px;
+    text-align: center;
+    margin-top:20px;
+}
+
+@media screen and (max-width:700px){
+
+.ban2{
+    width:100%;
+    height: 983px;
+    display: flex;  
+    background-color:rgba(163, 162, 157, 0.272) ;
+    flex-direction: column;
+}
+    
+    
+.mountain{
+    width: 450px;
+    height:375px;
+}
+    
+.mountain img{
+    width: 110px;
+    height: 115px;
+}
+    
+.mountain h3{
+    font-size: 18px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    /* line-height: 1.4; */
+    text-align: center;
+    font-weight: bolder;
+    padding: 5px;
+    margin-top: 20px;
+}
+    
+.mountain p{
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    /* line-height: 1.4; */
+    margin-top: 2px;
+    margin-left: 10px;
+    text-align: center;
+}
+    
+    
+.compass{
+    width: 450px;
+    height:370px;
+}
+    
+.compass img{
+    width: 110px;
+    height: 108px;
+}
+    
+.compass h3{
+    font-size: 18px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    /* line-height: 1.4; */
+    text-align: center;
+    font-weight: bolder;
+    padding: 5px;
+    margin-top: 20px;
+}
+    
+.compass p{
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    /* line-height: 1.4; */
+    margin-top: 2px;
+    margin-left: 10px;
+    text-align: center;
+}
+    
+.bag{
+    width: 450px;
+    height: 436px;
+}
+    
+.bag img{
+    width: 110px;
+    height: 108px;
+}
+    
+.bag h3{
+    font-size: 18px;
+    font-family: "Montserrat";
+    color: rgb(255, 112, 91);
+    font-style: italic;
+    /* line-height: 1.4; */
+    text-align: center;
+    font-weight: bolder;
+    padding: 5px;
+    margin-top: 20px;
+}
+    
+.bag p{
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(47, 73, 89);
+    /* line-height: 1.4; */
+    margin-top: 2px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+}
+
